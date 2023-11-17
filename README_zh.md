@@ -2,7 +2,7 @@
   <h2 align="center">Awesome-GPTs👍 Updated Daily 🔥</h2>
   
   <p align="center">
-    <img width="650" src="https://github.com/gogooing/Awesome-GPTs/main/images/gpts.webp">
+    <img width="650" src="https://raw.githubusercontent.com/gogooing/Awesome-GPTs/main/images/gpts.webp">
   </p>
   
   <p>

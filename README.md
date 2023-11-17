@@ -1,7 +1,7 @@
 <div align="center">
   <h2 align="center">Awesome-GPTs👍 Updated Daily 🔥</h2>
   <p align="center">
-    <img width="650" src="https://github.com/gogooing/Awesome-GPTs/main/images/gpts.webp">
+    <img width="650" src="https://raw.githubusercontent.com/gogooing/Awesome-GPTs/main/images/gpts.webp">
   </p>
   <p>
       <a href="https://github.com/gogooing/Awesome-GPTs">English</a> | <a href="https://github.com/gogooing/Awesome-GPTs/blob/main/README_zh.md">简体中文</a>
