@@ -42,21 +42,28 @@ Stay tuned for more updates and advancements!
 -----
 
 ## 📚 Table of Contents
-1. [✍️ Writing](#writing)
-2. [🎓 Education](#education)
-3. [🎯 Productivity](#productivity)
-4. [💻 Programming](#programming)
-5. [🐈 Lifestyle](#lifestyle)
-6. [😀 Just for Fun](#just-for-fun)
-7. [☂  Weather](#weahter)
+1. [🔥 Today's Hottest](#Today's-Hottest)
+2. [✍️ Three Kingdoms Characters](#Three-Kingdoms-Characters)
+3. [🐈 Duowang Wangzhongwang](#Duowang-Wangzhongwang)
+4. [🎯 Xiaojun Assistant](#Xiaojun-Assistant)
+5. [💻 Programming](#programming)
+6. [🎓 Lifestyle](#lifestyle)
+7. [😀 Entertainment](#Entertainment)
 
-## Writing
+## Today's Hottest
+1. 🤯 晓张飞(ZhangFei)！
+   - I am Zhang Fei from the Three Kingdoms, ready to share my tales and wisdom.
+   - [立即开玩](https://chat.openai.com/g/g-j6nhK92Fw-xiao-san-guo-zhang-fei)
+
+## Three Kingdoms Characters
+1. 🤯 晓张飞(ZhangFei)！
+   - I am Zhang Fei from the Three Kingdoms, ready to share my tales and wisdom.
+   - [立即开玩](https://chat.openai.com/g/g-j6nhK92Fw-xiao-san-guo-zhang-fei)
+
+## Duowang Wangzhongwang
 
 
-## Education
-
-
-## Productivity
+## Xiaojun Assistant
 
 
 ## Programming
@@ -65,7 +72,7 @@ Stay tuned for more updates and advancements!
 ## Lifestyle
 
 
-## Just for Fun
+## Entertainment
 
 
 ## Weather
