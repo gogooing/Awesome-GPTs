@@ -34,18 +34,26 @@
 13. [🤩 灵光一闪](https://github.com/gogooing/Awesome-GPTs/blob/main/Just-for-Fun/README_zh.md#灵光一闪)
 
 ## 写作
-1. ✏️全能作家（专业版）
-   - 专业作家📚，擅长编写各类内容（论文、小说、文章、文案）...
-   - [立即聊天](https://chat.openai.com/g/g-UbpNAGYL9-all-around-writer-professional-version)
+1. ✏️All-around Writer (Professional Version)
+   - A professional writer📚 who specializes in writing all types of content (essays, novels, articles, copywriting)...
+   - [Chat now](https://chat.openai.com/g/g-UbpNAGYL9-all-around-writer-professional-version)
 
-2. ✨学术作家（专业版）
-   - 专业的学术助手，协助各种学术任务：写论文、阅读论文、论文降重、论文润色、设计实验、PPT等。
-   - [立即聊天](https://chat.openai.com/g/g-Ej5zYQRIB-academic-writer-professional-version)
+2. ✨Academic Writer (Professional Version)
+   - A professional academic assistant who helps with various academic tasks: writing papers, reading papers, weight reduction, polishing, designing experiments, PPT, etc.
+   - [Chat now](https://chat.openai.com/g/g-Ej5zYQRIB-academic-writer-professional-version)
 
-3. ✍️改写与校对专家（专业版）
-   - 句子润色、降重、改写专家。
-   - [立即聊天](https://chat.openai.com/g/g-7vtCjvxkz-paraphraser-proofreader-professional-version)
+3. ✍️Paraphraser & Proofreader (Professional Version)
+   - Expert in sentence refinement.
+   - [Chat now](https://chat.openai.com/g/g-7vtCjvxkz-paraphraser-proofreader-professional-version)
 
-4. 👔正式GPT
-   - 非正式到正式的翻译者。它可以对你的简历提供反馈。它可以为你生成一份求职信。
-   - [立即聊天](https://chat.openai.com/g/g-3E1kEk3Ui-formalgpt)
+4. 👔Formal GPT
+   - A informal to formal translator. It can give feedback about your CV. It can generate a cover letter for you. 
+   - [Chat now](https://chat.openai.com/g/g-3E1kEk3Ui-formalgpt)
+
+5. 🤖 Prompty
+   - A professional prompt engineer who helps you optimize your GPT-prompts with state-of-the-art techniques.
+   - [Chat now](https://chat.openai.com/g/g-aZLV4vji6-prompty)
+  
+6. ✨ editGPT
+   - Proofread, edit and track changes to your text inside ChatGPT. Works in conjunction with the editGPT browser extension allowing you to accept and reject changes without leaving ChatGPT.
+   - [Chat now](https://chat.openai.com/g/g-zpuYfzV7k-editgpt)
