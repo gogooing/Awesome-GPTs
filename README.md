@@ -33,7 +33,7 @@ Stay tuned for more updates and advancements!
 9. [🦄 Lifestyle](#Lifestyle)
 10. [😀 Just for Fun](#Just-for-Fun)
 11. [☂  Weather](#Weather)
-12. [🍴 Dining](#dining)
+12. [🍴 Dining](#Dining)
 13. [🤩 A flash of inspiration](#A-flash-of-inspiration)
 
 ## Today's Hottest
