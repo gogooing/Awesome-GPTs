@@ -20,6 +20,9 @@ Stay tuned for more updates and advancements!
 
 -----
 
+## 🤖 Leaked Prompt
+1. [🔥 Leaked](https://github.com/gogooing/Awesome-GPTs/tree/main/GPTs/Leaked/README.md#Leaked)
+
 ## 📚 Table of Contents
 1. [🔥 Today's Hottest](https://github.com/gogooing/Awesome-GPTs/tree/main/GPTs/README.md#Today's-Hottest)
 2. [✍️ Role Playing](https://github.com/gogooing/Awesome-GPTs/tree/main/GPTs/README.md#Role-Playing)

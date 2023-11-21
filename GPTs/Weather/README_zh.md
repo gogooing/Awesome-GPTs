@@ -18,6 +18,9 @@
 
 （**非常感谢你的Star🌟、推荐❤️、以及你的PR**）
 
+## 🤖 泄露提示
+1. [🔥 Leaked](https://github.com/gogooing/Awesome-GPTs/tree/main/GPTs/Leaked/README_zh.md#Leaked)
+
 ## 📚 目录
 1. [🔥 中文专区](https://github.com/gogooing/Awesome-GPTs/tree/main/GPTs/README_zh.md#中文专区)
 2. [✍️ 角色扮演](https://github.com/gogooing/Awesome-GPTs/tree/main/GPTs/README_zh.md#角色扮演)
@@ -34,7 +37,7 @@
 13. [🤩 灵光一闪](https://github.com/gogooing/Awesome-GPTs/tree/main/GPTs/A-flash-of-inspiration/README_zh.md#灵光一闪)
 
 ## 天气
-1. 🌨 Harold the Weather Painter
-   - weather in a impressionistic style
-   - [Chat now](https://chat.openai.com/g/g-QVitiCB0k-harold-the-weather-painter)
+1. 🌨 哈罗德，天气画家
+   - 以印象派风格绘制的天气
+   - [立即聊天](https://chat.openai.com/g/g-QVitiCB0k-harold-the-weather-painter)
 

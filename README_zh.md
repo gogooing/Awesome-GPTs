@@ -19,6 +19,9 @@
 
 （**非常感谢你的Star🌟、推荐❤️、以及你的PR**）
 
+## 🤖 泄露提示
+1. [🔥 Leaked](https://github.com/gogooing/Awesome-GPTs/tree/main/GPTs/Leaked/README_zh.md#Leaked)
+
 ## 📚 目录
 1. [🔥 中文专区](#中文专区)
 2. [✍️ 角色扮演](#角色扮演)

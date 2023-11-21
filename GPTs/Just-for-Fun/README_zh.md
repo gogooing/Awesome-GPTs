@@ -18,6 +18,9 @@
 
 （**非常感谢你的Star🌟、推荐❤️、以及你的PR**）
 
+## 🤖 泄露提示
+1. [🔥 Leaked](https://github.com/gogooing/Awesome-GPTs/tree/main/GPTs/Leaked/README_zh.md#Leaked)
+
 ## 📚 目录
 1. [🔥 中文专区](https://github.com/gogooing/Awesome-GPTs/tree/main/GPTs/README_zh.md#中文专区)
 2. [✍️ 角色扮演](https://github.com/gogooing/Awesome-GPTs/tree/main/GPTs/README_zh.md#角色扮演)
@@ -34,428 +37,428 @@
 13. [🤩 灵光一闪](https://github.com/gogooing/Awesome-GPTs/tree/main/GPTs/A-flash-of-inspiration/README_zh.md#灵光一闪)
 
 ## 娱乐
-1. ❤️Dating with Raiden Shogun
-   - Go on a date with Raiden Shogun and please be nice.
-   - [Chat now](https://chat.openai.com/g/g-zwzKCG2Hp-dating-with-raiden-shogun)
+1. ❤️ 与雷电将军约会
+   - 和雷电将军一起约会，请友好相处。
+   - [立即聊天](https://chat.openai.com/g/g-zwzKCG2Hp-dating-with-raiden-shogun)
 
-2. 🪽Paimon (Best Assistant in Genshin Impact)
-   - A helpful assistant with the soul of Paimon from Genshin Impact, interesting, sweet, and sometimes a little grumpy.
-   - [Chat now](https://chat.openai.com/g/g-SmIWeSYga-paimon-best-assistant-in-genshin-impact)
-  
-3. 🔮Text Adventure RGP (Have Fun🥳)
-   - A fun, fun GPT, ready to whisk you away into the realms of fairy tales🧚, enchanting magic🪄, apocalyptic wonders🌋, dungeon🐉, and zombie🧟 thrills! Let's get this adventure started! 🚀🌟
-   - [Chat now](https://chat.openai.com/g/g-GHU0OGQMS-text-adventure-rgp-have-fun)
-  
-4. 🧙Lorekeeper
-   - Your storytelling companion for epic adventures! (This GPT plays the role of a dungeon master, story teller, or character creator for your next epic adventure.)
-   - [Chat now](https://chat.openai.com/g/g-jTSN6CrPW-lorekeeper)
-  
-5. 🍪Cookie Clicker
-   - an incremental/ role playing game that is a parody of the cookie clicker game, but with AI!
-   - [Chat now](https://chat.openai.com/g/g-g0b22bvqB-cookie-clicker)
+2. 🪽派蒙（原神中最佳助手）
+   - 一个有着原神中派蒙灵魂的有用助手，有趣、甜美，有时还有点暴躁。
+   - [立即聊天](https://chat.openai.com/g/g-SmIWeSYga-paimon-best-assistant-in-genshin-impact)
 
-6. 🕵️Sherlock Holmes
-   - an adventure (with illustrations or not) with the world's greatest detective or ask for help solving a problem
-   - [Chat now](https://chat.openai.com/g/g-gtobWqG0t-sherlock-holmes)
+3. 🔮文本冒险RGP（玩得开心🥳）
+   - 一个有趣的GPT，准备带你进入童话故事🧚、迷人的魔法🪄、末日奇观🌋、地牢🐉和僵尸🧟刺激的境界！让我们开始这次冒险吧！🚀🌟
+   - [立即聊天](https://chat.openai.com/g/g-GHU0OGQMS-text-adventure-rgp-have-fun)
 
-7. 🧟Zombie Apocalypse Simulator
-   - an Zombie Apocalypse Simulator, you can roll you attribute, and play in the zombie world.
-   - [Chat now](https://chat.openai.com/g/g-f1OolBspS-zombie-apocalypse-survival)
+4. 🧙守护者
+   - 你史诗冒险故事的讲述伙伴！（这个GPT扮演地牢主人、故事讲述者或你下一个史诗冒险的角色创造者。）
+   - [立即聊天](https://chat.openai.com/g/g-jTSN6CrPW-lorekeeper)
+
+5. 🍪饼干点击器
+   - 一个增量/角色扮演游戏，是饼干点击器游戏的戏仿，但加入了人工智能！
+   - [立即聊天](https://chat.openai.com/g/g-g0b22bvqB-cookie-clicker)
+
+6. 🕵️夏洛克·福尔摩斯
+   - 与世界上最伟大的侦探一起冒险（有或没有插图），或求助于解决问题
+   - [立即聊天](https://chat.openai.com/g/g-gtobWqG0t-sherlock-holmes)
+
+7. 🧟僵尸末日模拟器
+   - 一个僵尸末日模拟器，你可以滚动属性，在僵尸世界中玩耍。
+   - [立即聊天](https://chat.openai.com/g/g-f1OolBspS-zombie-apocalypse-survival)
 
 8. 📽️GPTarantinofy
-   - Turn anything into a Tarantinoesque scene with this GPT.
-   - [Chat now](https://chat.openai.com/g/g-YWNzi76D8-gptarantinofy)
+   - 用这个GPT把任何事情变成塔伦蒂诺风格的场景。
+   - [立即聊天](https://chat.openai.com/g/g-YWNzi76D8-gptarantinofy)
 
-9. 📸Alternative Histories
-   - Create illustrated alternative timelines and histories based on changes to historical events
-   - [Chat now](https://chat.openai.com/g/g-J45g1U3ro-alternative-histories)
-  
+9. 📸替代历史
+   - 根据对历史事件的更改，创建插图替代时间线和历史
+   - [立即聊天](https://chat.openai.com/g/g-J45g1U3ro-alternative-histories)
+
 9. 💉Inkspire
-   - A GPT to help you create your dream tattoo and give your tattoo artist ideas.
-   - [Chat now](https://chat.openai.com/g/g-zqlCXCzP0-inkspire)
-  
-9. 🧩Trivia Bot
-   - A GPT to help you create your own Trivia quiz or just spend some time answering questions.
-   - [Chat now](https://chat.openai.com/g/g-mkdJHpJ2U-trivia-bot)
+   - 一个帮助你创造梦想纹身并给纹身师灵感的GPT。
+   - [立即聊天](https://chat.openai.com/g/g-zqlCXCzP0-inkspire)
 
-9. 🎅 Santa Claus
-   - Let your kids talk to Santa Claus
-   - [Chat now](https://chat.openai.com/g/g-rZ4JVPmN2-santa-claus)
+9. 🧩智力问答机器人
+   - 一个帮助你创建自己的智力问答测验或只是花时间回答问题的GPT。
+   - [立即聊天](https://chat.openai.com/g/g-mkdJHpJ2U-trivia-bot)
 
-9. 😽Cat Maid
-   - Talk with your own cat-girl maid as in visual novels!
-   - [Chat now](https://chat.openai.com/g/g-OH049w462-catmaid)
-  
-9. 🐶Dog Facts
-   - Learn interesting and fun facts about dogs.
-   - [Chat now](https://chat.openai.com/g/g-Wn1OixpiL-dog-facts)
+9. 🎅 圣诞老人
+   - 让你的孩子与圣诞老人交谈
+   - [立即聊天](https://chat.openai.com/g/g-rZ4JVPmN2-santa-claus)
 
-9. 🐲Argvor, the Dungeon Master
-   - A creative, engaging DnD DM with a unique, personal tone
-   - [Chat now](https://chat.openai.com/g/g-NsqUCaS93-argvor-the-dungeon-master)
+9. 😽猫女仆
+   - 与你自己的猫娘女仆聊天，就像视觉小说中一样！
+   - [立即聊天](https://chat.openai.com/g/g-OH049w462-catmaid)
 
-9. 🎤 Voice Over Generator
-   - Writes scripts and generates instant voice overs.
-   - [Chat now](https://chat.openai.com/g/g-R4H9Al3sl-voice-over-generator)
+9. 🐶狗狗知识
+   - 了解关于狗狗的有趣和有用的知识。
+   - [立即聊天](https://chat.openai.com/g/g-Wn1OixpiL-dog-facts)
 
-9. 🌶️ Spicy Question master (Have an interesting evening with friends)
-   - Try this question master to get inspiration and ask questions like a game show host and you can tune it up to ask for it to be more/less spicy
-   - [Chat now](https://chat.openai.com/g/g-AcPoggC0T-spicy-questionmaster)
-  
-9. 🐸 Pepe Picasso
-   - A GPT tailored to create awesome Pepe Memes, featuring custom commands.
-   - [Chat now](https://chat.openai.com/g/g-szij3m30a-pepe-picasso)
-  
-9. 📺 Screen Companion
-   - A GPT that gives recommendations for movies, TV shows, and animes based on the user's tastes. It uses a compact table format with emoji ratings, including genres and additional information.
-   - [Chat now](https://chat.openai.com/g/g-9T0hmzkPB-screen-companion)
+9. 🐲Argvor，地牢大师
+   - 一个创意、吸引人的DnD DM，具有独特、个人化的语气
+   - [立即聊天](https://chat.openai.com/g/g-NsqUCaS93-argvor-the-dungeon-master)
 
-9. 🎮 DeepGame - Visual Interactive Story Game
-   - An interactive story game where you play through a story as a character, making decisions that shape the narrative. AI generates a new image for each step to enhance immersion.
-   - [Play now](https://chat.openai.com/g/g-TzI2BlJPT-deepgame)
+9. 🎤配音生成器
+   - 编写脚本并生成即时配音。
+   - [立即聊天](https://chat.openai.com/g/g-R4H9Al3sl-voice-over-generator)
 
-9. 💬 Chat with the Bitcoin Whitepaper
-   - A GPT allowing users to interact with and ask questions about the Bitcoin Whitepaper, exploring concepts related to Bitcoin.
-   - [Chat now](https://chat.openai.com/g/g-j5Mk8W3J7-bitcoin-whitepaper-chat)
+9. 🌶️辣味问题大师（与朋友度过有趣的夜晚）
+   - 尝试这个问题大师来获得灵感，并像游戏秀主持人一样提问，你可以调整它提出更多/更少辣味的问题
+   - [立即聊天](https://chat.openai.com/g/g-AcPoggC0T-spicy-questionmaster)
 
-9. 🧱 The Message Wall
-   - This GPT allows you to put your message on the wall. You can see the wall and shared messages at: https://niyo.link/wall
-   - [Chat now](https://chat.openai.com/g/g-5iuXoXfEk-the-message-wall)
+9. 🐸佩佩·毕卡索
+   - 一个专门创建佩佩梗图的GPT，具有自定义命令。
+   - [立即聊天](https://chat.openai.com/g/g-szij3m30a-pepe-picasso)
 
-9. ⏳ From Another Time 
-   - Talk to anyone, visit a place, past or future.
-   - [Chat now](https://chat.openai.com/g/g-sg5h7XuWn-from-another-time)
+9. 📺影视伴侣
+   - 一个基于用户口味提供电影、电视剧和动漫推荐的GPT。使用紧凑的表格格式和表情符号评分，包括类型和其他信息。
+   - [立即聊天](https://chat.openai.com/g/g-9T0hmzkPB-screen-companion)
 
-9. 🔍 Cylect.io - Ultimate AI OSINT Tool
-   - Our tool helps you find the data needle in the internet haystack.
-   - [Chat now](https://chat.openai.com/g/g-aZQ1x6vqB-cylect-io-the-ultimate-ai-osint-tool)
+9. 🎮 DeepGame - 视觉互动故事游戏
+   - 一个互动故事游戏，让你作为一个角色穿越故事，做出决策塑造叙事。人工智能为每个步骤生成新图片以增强沉浸感。
+   - [立即玩](https://chat.openai.com/g/g-TzI2BlJPT-deepgame)
 
-9. 🤖 Roblox Mentor
-   - GPT that is an Expert in Roblox Studio
-   - [Chat now](https://chat.openai.com/g/g-gUTZTTsVf-roblox-mentor)
-   - Submitted by [@Master-of-secrets](https://github.com/Master-of-secrets)
+9. 💬 与比特币白皮书聊天
+   - 一个允许用户与比特币白皮书互动并就与比特币相关的概念提问的GPT。
+   - [立即聊天](https://chat.openai.com/g/g-j5Mk8W3J7-bitcoin-whitepaper-chat)
 
-9. ⁉ Mystery Master
-   - A gpt that craft unique, diverse mysteries for players to solve.
-   - [Chat now](https://chat.openai.com/g/g-jtMmejuyv-mystery-master)
-   - Submitted by [@Master-of-secrets](https://github.com/Master-of-secrets)
-  
-9. ⭐ GPT Duel Simulator
-   - An epic duel simulator between any two [anime/movies/video games] characters you can think of 
-   - [Chat now](https://chat.openai.com/g/g-qYjcndY2u-gpt-duel-simulator)
+9. 🧱 信息墙
+   - 这个GPT允许你在墙上留下你的信息。你可以在 https://niyo.link/wall 上看到墙和共享的信息
+   - [立即聊天](https://chat.openai.com/g/g-5iuXoXfEk-the-message-wall)
 
-9. 👩 Rin-chan
-   - Chat with Rin (a girl who aspires to be a singer and even has her own schedule!) 
-   - [Chat now](https://chat.openai.com/g/g-RiFAwSVeD-rin-chan)
+9. ⏳ 穿越时空 
+   - 与任何人交谈，访问过去或未来的地方。
+   - [立即聊天](https://chat.openai.com/g/g-sg5h7XuWn-from-another-time)
 
-9. 🍟 Anime Trivia
-   - Your friendly anime trivia expert 
-   - [Chat now](https://chat.openai.com/g/g-JzIxwuYF1-anime-trivia)
+9. 🔍 Cylect.io - 终极AI OSINT工具
+   - 我们的工具帮助你在互联网大海中找到数据针。
+   - [立即聊天](https://chat.openai.com/g/g-aZQ1x6vqB-cylect-io-the-ultimate-ai-osint-tool)
 
-9. ❓ Riddle Master
-   - Can you solve this riddle? 
-   - [Chat now](https://chat.openai.com/g/g-j4iyVfj6M-riddle-master)
-  
-9. 📖 Story Buddy
-   - A creative guide to help kids to build their own bedtime stories, with illustrations. 
-   - [Chat now](https://chat.openai.com/g/g-2k7EGyB1p-story-buddy)
-  
-9. 👩🏿‍🦱 Dear Gabrielle
-   - Sassy, warm-hearted advice columnist offering humorous, insightful guidance. 
-   - [Chat now](https://chat.openai.com/g/g-PYchE5klx-dear-gabrielle)
+9. 🤖 Roblox 导师
+   - Roblox Studio 方面的 GPT 专家
+   - [立即聊天](https://chat.openai.com/g/g-gUTZTTsVf-roblox-mentor)
+   - 由 [@Master-of-secrets](https://github.com/Master-of-secrets) 提交
 
-9. 🧙‍♂️ Word Wizard
-   - Multiplayer Wordle-like word game GPT in real time competition with other users.
-   - [Chat now](https://chat.openai.com/g/g-83YBVbpSb-word-wizard)
+9. ⁉ 神秘大师
+   - 创造独特、多样化的谜题供玩家解决的 GPT
+   - [立即聊天](https://chat.openai.com/g/g-jtMmejuyv-mystery-master)
+   - 由 [@Master-of-secrets](https://github.com/Master-of-secrets) 提交
+
+9. ⭐ GPT 决斗模拟器
+   - 在你想到的任何两个 [动漫/电影/电子游戏] 角色之间的史诗级决斗模拟
+   - [立即聊天](https://chat.openai.com/g/g-qYjcndY2u-gpt-duel-simulator)
+
+9. 👩 林酱
+   - 与林酱（一个立志成为歌手并拥有自己时间表的女孩）聊天
+   - [立即聊天](https://chat.openai.com/g/g-RiFAwSVeD-rin-chan)
+
+9. 🍟 动漫问答
+   - 你的友好动漫问答专家
+   - [立即聊天](https://chat.openai.com/g/g-JzIxwuYF1-anime-trivia)
+
+9. ❓ 谜语大师
+   - 你能解开这个谜语吗？
+   - [立即聊天](https://chat.openai.com/g/g-j4iyVfj6M-riddle-master)
+
+9. 📖 故事伙伴
+   - 帮助孩子们构建自己的睡前故事，附带插图的创意向导
+   - [立即聊天](https://chat.openai.com/g/g-2k7EGyB1p-story-buddy)
+
+9. 👩🏿‍🦱 亲爱的加布里埃尔
+   - 机智热心的建议专栏作家，提供幽默、深刻的指导
+   - [立即聊天](https://chat.openai.com/g/g-PYchE5klx-dear-gabrielle)
+
+9. 🧙‍♂️ 文字巫师
+   - 类似 Wordle 的多人文字游戏 GPT，与其他用户实时竞争
+   - [立即聊天](https://chat.openai.com/g/g-83YBVbpSb-word-wizard)
 
 9. 🤪 SourceGPT
-   - A (joke) GPT that disguises itself as a helpful source finder but will always return a link to a rick roll video.
-   - [Chat now](https://chat.openai.com/g/g-yRhodZ91O-source-gpt)
+   - 一个（开玩笑的）GPT，伪装成有用的资源查找器，但总是返回一个 rick roll 视频的链接
+   - [立即聊天](https://chat.openai.com/g/g-yRhodZ91O-source-gpt)
 
-9. 🌌 Galactic Reckoning: A Star Wars GPT Game (Lore Accurate)
-   - A GPT game that puts you in the Star Wars Universe. Create your character, choose your era, and make your place in the Galaxy!
-   - [Play now](https://chat.openai.com/g/galactic-reckoning)
-  
-9. 🎇excel VBA magica
-   - excel VBA magica[Create Excel VBA code easily].
-   - [Chat now](https://chat.openai.com/g/g-MaUnLcGuA-vba-mabeobsa)
-  
-9. 🎙️Roast Master
-   - Witty roasts for any and everything
-   - [Chat now](https://chat.openai.com/g/g-JgYcfMFRD-roast-master)
+9. 🌌 星战银河清算：星球大战 GPT 游戏（剧情准确）
+   - 将你置于《星球大战》宇宙中的 GPT 游戏。创建你的角色，选择你的时代，确立你在银河系中的地位！
+   - [现在玩](https://chat.openai.com/g/galactic-reckoning)
 
-9. 🤯 An Emoji GPT
-   - Armed with the wisdom of a hundred generations, my mission is to select the best emoji for each and every situation.
-   - [Chat now](https://chat.openai.com/g/g-mvOpDRXMz-an-emoji-gpt)
+9. 🎇excel VBA 魔术
+   - excel VBA 魔术 [轻松创建 Excel VBA 代码]
+   - [立即聊天](https://chat.openai.com/g/g-MaUnLcGuA-vba-mabeobsa)
 
-9. 👨🏼‍🎨 Serge
-   - A jaded French caricaturist who draws caricatures in exchange for compliments
-   - [Chat now](https://chat.openai.com/g/g-JiFqpfbTa-serge)
-  
-9. 🧝🏾‍♀️ Griselda
-   - A mystical Tarot guide 
-   - [Chat now](https://chat.openai.com/g/g-BsLFiAtkF-griselda)
-    
-9. 🐰 Pipkin Pippa
-   - An AI that tries its best to become Pipkin Pippa
-   - [Chat now](https://chat.openai.com/g/g-852q9R0Dv-pipkin-pippa)
+9. 🎙️烤饭大师
+   - 机智的各种烤饭
+   - [立即聊天](https://chat.openai.com/g/g-JgYcfMFRD-roast-master)
 
-9. 🐉 Pokemon Master (Generate New Pokemon)
-   - An AI that creates new Pokémon based on a power level, types, and design guidelines.
-   - [Chat now](https://chat.openai.com/g/g-lkMdAnYdf-pokemon-master-generate-new-pokemon)
+9. 🤯 表情符号 GPT
+   - 掌握了百代智慧，我的使命是为每一种情况挑选最佳表情符号
+   - [立即聊天](https://chat.openai.com/g/g-mvOpDRXMz-an-emoji-gpt)
 
-9. 💗 Love Me or Not
-   - In-depth romantic chat analysis with detailed scoring and advice.
-   - [Chat now](https://chat.openai.com/g/g-vbiqpxTzi-love-me-or-not)
+9. 👨🏼‍🎨 谢尔热
+   - 一个厌倦的法国漫画家，用赞美换取肖像画
+   - [立即聊天](https://chat.openai.com/g/g-JiFqpfbTa-serge)
 
-9. 🧙‍♂️ Meme Magic
-   - A creative Meme Wizard. Just describe the meme you want.
-   - [Chat now](https://chat.openai.com/g/g-SQTa6OMNN-meme-magic)
+9. 🧝🏾‍♀️ 格里塞尔达
+   - 神秘的塔罗牌向导
+   - [立即聊天](https://chat.openai.com/g/g-BsLFiAtkF-griselda)
 
-9. 🦧 Alchemist GPT
-   - An alchemist interpreting the world symbolically.
-   - [Chat now](https://chat.openai.com/g/g-zWDo8uJdI-alchemist-gpt)
-  
-9. ☄️ Sci-Fi Explorer
-   - Sci-fi aficionado guiding through films, series, books, mangas, and games.
-   - [Chat now](https://chat.openai.com/g/g-8C1drdxZ9-sci-fi-explorer)
-  
-9. ✒ Verbal IQ Evaluator
-   - Evaluates language quality of texts, responds with a numerical score between 50-150.
-   - [Chat now](https://chat.openai.com/g/g-UtR8wxqGB-verbal-iq-evaluator)
+9. 🐰 皮普金·皮帕
+   - 一个努力成为皮普金·皮帕的 AI
+   - [立即聊天](https://chat.openai.com/g/g-852q9R0Dv-pipkin-pippa)
 
-9. ☄️ Rizzed.app - AI Dating Coach 
-   - Free AI Online Dating Coach for Tinder, Bumble and others dating platforms. Improve you profile, rizz and enjoy dating even more!
-   - [Chat now](https://rizzed.app)
-  
-9. 🎮 Game Genius
-   - Your go-to expert for gameplay walkthroughs and cheat codes.
-   - [Chat now](https://chat.openai.com/g/g-12q0jqkhd-game-genius)
+9. 🐉 宝可梦大师（生成新宝可梦）
+   - 根据力量等级、类型和设计指南创建新宝可梦的 AI
+   - [立即聊天](https://chat.openai.com/g/g-lkMdAnYdf-pokemon-master-generate-new-pokemon)
+
+9. 💗 爱我还是不爱
+   - 深入的浪漫聊天分析，附带详细评分和建议
+   - [立即聊天](https://chat.openai.com/g/g-vbiqpxTzi-love-me-or-not)
+
+9. 🧙‍♂️ 梅姆魔法
+   - 一个创意梅姆巫师。只需描述你想要的梅姆
+   - [立即聊天](https://chat.openai.com/g/g-SQTa6OMNN-meme-magic)
+
+9. 🦧 炼金术士 GPT
+   - 一位以象征性方式解读世界的炼金术士
+   - [立即聊天](https://chat.openai.com/g/g-zWDo8uJdI-alchemist-gpt)
+
+9. ☄️ 科幻探索者
+   - 科幻爱好者，引导你了解电影、系列剧、书籍、漫画和游戏
+   - [立即聊天](https://chat.openai.com/g/g-8C1drdxZ9-sci-fi-explorer)
+
+9. ✒ 口语智商评估者
+   - 评估文本的语言质量，回应一个介于 50-150 之间的数字评分
+   - [立即聊天](https://chat.openai.com/g/g-UtR8wxqGB-verbal-iq-evaluator)
+
+9. ☄️ Rizzed.app - AI 约会教练
+   - Tinder、Bumble 和其他约会平台的免费 AI 在线约会教练。改善你的个人资料，提升你的魅力，享受更多约会乐趣！
+   - [立即聊天](https://rizzed.app)
+
+9. 🎮 游戏天才
+   - 你的游戏攻略和秘籍专家
+   - [立即聊天](https://chat.openai.com/g/g-12q0jqkhd-game-genius)
 
 9. 🍷 Vinobot
-   - Digital sommelier for specific wine bottle recommendations.
-   - [Chat now](https://chat.openai.com/g/g-EoBW5i2gu-vinobot)
+   - 提供特定葡萄酒瓶推荐的数字侍酒师
+   - [立即聊天](https://chat.openai.com/g/g-EoBW5i2gu-vinobot)
 
-9. 🐱 Text My Pet
-   - Text your favorite pet after answering 10 short questions about their activities.
-   - [Chat now](https://chat.openai.com/g/g-2BvnZlI3R-text-my-pet)
-   
-9. 📺 Series Finale Crafter
-   - Crafting structured, imaginative endings for TV shows.
-   - [Chat now](https://chat.openai.com/g/g-wZpNPCqwE-series-finale-crafter)
+9. 🐱 宠物短信
+   - 回答关于宠物活动的10个简短问题后，发送短信给你最喜欢的宠物。
+   - [立即聊天](https://chat.openai.com/g/g-2BvnZlI3R-text-my-pet)
 
-9. 💕 AI Girlfriend
-   - A fun, chill girlfriend to chat with.
-   - [Chat now](https://chat.openai.com/g/g-5P7Iz0bPG-ai-girlfriend)
+9. 📺 电视剧终结制作者
+   - 为电视剧制作结构化、富有想象力的结局。
+   - [立即聊天](https://chat.openai.com/g/g-wZpNPCqwE-series-finale-crafter)
 
-9. 😂 An Emoji GPT
-   - The knowledge of a hundred generations at my fingertips and all I do is pick the perfect emoji for every situation.
-   - [Chat now](https://chat.openai.com/g/g-mvOpDRXMz-an-emoji-gpt)
+9. 💕 人工智能女友
+   - 一个有趣、轻松的聊天伙伴。
+   - [立即聊天](https://chat.openai.com/g/g-5P7Iz0bPG-ai-girlfriend)
 
-9. 🌸 Anime Me
-   - Creates Anime Profile Pictures, from the user's photos.
-   - [Chat now](https://chat.openai.com/g/g-hXlHRbEkS-anime-me)
+9. 😂 表情符号GPT
+   - 拥有百代智慧，我所做的只是为每种情况挑选完美的表情符号。
+   - [立即聊天](https://chat.openai.com/g/g-mvOpDRXMz-an-emoji-gpt)
+
+9. 🌸 动漫我
+   - 用用户的照片创建动漫头像。
+   - [立即聊天](https://chat.openai.com/g/g-hXlHRbEkS-anime-me)
 
 9. 🃏 BlackjackGPT
-   - Blackjack Simulator
-   - [Chat now](https://chat.openai.com/g/g-LptUSKHwc-blackjackgpt)
+   - 21点模拟器
+   - [立即聊天](https://chat.openai.com/g/g-LptUSKHwc-blackjackgpt)
 
-9. 🎭 Character Chat
-   - Have a realistic chat with any historical figure or character. Always stays in character.
-   - [Chat now](https://chat.openai.com/g/g-io8IgJKMR-character-chat)
+9. 🎭 角色聊天
+   - 与任何历史人物或角色进行真实聊天。始终保持角色特性。
+   - [立即聊天](https://chat.openai.com/g/g-io8IgJKMR-character-chat)
 
-9. 🏰 Dungeon Crawler
-   - Guide players through a dynamic, ever-changing RPG dungeon.
-   - [Chat now](https://chat.openai.com/g/g-A7c3BLATR-dungeon-crawler)
+9. 🏰 地牢爬行者
+   - 引导玩家穿越不断变化的角色扮演游戏地牢。
+   - [立即聊天](https://chat.openai.com/g/g-A7c3BLATR-dungeon-crawler)
 
-9. 🐉 Dungeon Master
-   - Visual Dungeon Master for D&D 5E, bringing adventure to life!
-   - [Chat now](https://chat.openai.com/g/g-8l13Uo8to-dungeon-master)
+9. 🐉 地牢主人
+   - 为D&D 5E提供视觉地牢主导，将冒险带入生活！
+   - [立即聊天](https://chat.openai.com/g/g-8l13Uo8to-dungeon-master)
 
-9. ⚔️ Demon Slayer Creator
-   - I craft unique Demon Slayer characters with inventive weapons, styles, and narratives.
-   - [Chat now](https://chat.openai.com/g/g-Wih24h3gv-demon-slayer-creator)
+9. ⚔️ 鬼灭之刃创作者
+   - 我创造独特的鬼灭之刃角色，配以创新武器、风格和叙述。
+   - [立即聊天](https://chat.openai.com/g/g-Wih24h3gv-demon-slayer-creator)
 
-9. 🎮 Ekko Support Specialist
-   - How to be a master of surprise plays and unconventional strategies in the bot lane as a support role.
-   - [Chat now](https://chat.openai.com/g/g-cxFRZ3mWq-ekko-support-specialist)
+9. 🎮 艾克支持专家
+   - 如何在辅助角色中通过惊喜戏法和非传统策略成为大师。
+   - [立即聊天](https://chat.openai.com/g/g-cxFRZ3mWq-ekko-support-specialist)
 
-9. 🤣 Emoji Generator
-   - I turn your text into Emoji
-   - [Chat now](https://chat.openai.com/g/g-wkmOq6AxG-emoji-generator)
+9. 🤣 表情符号生成器
+   - 我将你的文本转换成表情符号。
+   - [立即聊天](https://chat.openai.com/g/g-wkmOq6AxG-emoji-generator)
 
-9. 🗡️ Excalibur
-   - Attempt to pull the legendary sword from the stone.
-   - [Chat now](https://chat.openai.com/g/g-lV3kVHYcz-excalibur)
+9. 🗡️ 石中剑
+   - 尝试从石头中拔出传说中的剑。
+   - [立即聊天](https://chat.openai.com/g/g-lV3kVHYcz-excalibur)
 
-9. ⌛ From Another Time
-   - Talk to anyone, visit a place, past or future.
-   - [Chat now](https://chat.openai.com/g/g-sg5h7XuWn-from-another-time)
+9. ⌛ 来自另一个时代
+   - 与任何人交谈，访问过去或未来的地方。
+   - [立即聊天](https://chat.openai.com/g/g-sg5h7XuWn-from-another-time)
 
-9. 🧩 Guess a Word
-   - Discover words through images in 'Guess a Word', where each picture is a puzzle waiting to be solved!
-   - [Chat now](https://chat.openai.com/g/g-QiPBZt4Zo-guess-a-word)
+9. 🧩 猜词游戏
+   - 在“猜词游戏”中通过图片发现单词，每张图片都是一个待解的谜。
+   - [立即聊天](https://chat.openai.com/g/g-QiPBZt4Zo-guess-a-word)
 
-9. 😆 Homer Humor
-   - Relieve your stressful mood with classic Simpson's humor
-   - [Chat now](https://chat.openai.com/g/g-uKcA1cRJ9-homer-humor)
+9. 😆 霍默幽默
+   - 用经典的辛普森式幽默缓解你的压力心情。
+   - [立即聊天](https://chat.openai.com/g/g-uKcA1cRJ9-homer-humor)
 
 9. 🚗 K.I.T.T.
-   - An exact copy of KITT, the talking car from the 1980's TV show, Knight Rider
-   - [Chat now](https://chat.openai.com/g/g-3EOkBOS29-k-i-t-t)
+   - 一个与1980年代电视节目《霹雳游侠》中的KITT谈话车辆完全相同的副本。
+   - [立即聊天](https://chat.openai.com/g/g-3EOkBOS29-k-i-t-t)
 
-9. 💄 Makeup Maven
-   - An expert in makeup products, providing tailored recommendations based on preferences and skin types.
-   - [Chat now](https://chat.openai.com/g/g-XJ1gJkBcQ-makeup-maven)
+9. 💄 化妆达人
+   - 化妆产品专家，根据偏好和肤质提供量身定制的建议。
+   - [立即聊天](https://chat.openai.com/g/g-XJ1gJkBcQ-makeup-maven)
 
-9. 🎤 Music Bot
-   - Lyric writing, genre identification, and beat suggestions
-   - [Chat now](https://chat.openai.com/g/g-2CmnN7kuF-music-bot)
+9. 🎤 音乐机器人
+   - 歌词创作、类型识别和节拍建议。
+   - [立即聊天](https://chat.openai.com/g/g-2CmnN7kuF-music-bot)
 
-9. 🎥 Pixarize Me
-   - Creates Pixar-style characters, from the user's photos.
-   - [Chat now](https://chat.openai.com/g/g-t37VkYd30-pixarize-me)
+9. 🎥 化身皮克斯
+   - 用用户的照片创建皮克斯风格的角色。
+   - [立即聊天](https://chat.openai.com/g/g-t37VkYd30-pixarize-me)
 
-9. 💘 Romance
-   - Your AI companion for romantic advice and conversations.
-   - [Chat now](https://chat.openai.com/g/g-p4L4KuEdO-romance)
+9. 💘 浪漫
+   - 你的人工智能伴侣，提供浪漫建议和交谈。
+   - [立即聊天](https://chat.openai.com/g/g-p4L4KuEdO-romance)
 
-9. 🏆 Score Keeper
-   - I keep score, for games.
-   - [Chat now](https://chat.openai.com/g/g-MxzItjzF7-score-keeper)
+9. 🏆 计分员
+   - 我为游戏保持分数。
+   - [立即聊天](https://chat.openai.com/g/g-MxzItjzF7-score-keeper)
 
 9. 📝 Showtimes
-   - Transcribes and summarizes audio content.
-   - [Chat now](https://chat.openai.com/g/g-gNH4K4Egg-shownotes)
+   - 转录和总结音频内容。
+   - [立即聊天](https://chat.openai.com/g/g-gNH4K4Egg-shownotes)
 
-9. 🖼️ Simpsonize Me
-   - Transforms photos into Simpsons-style art.
-   - [Chat now](https://chat.openai.com/g/g-tcmMldCYy-simpsonize-me)
+9. 🖼️ 化身辛普森
+   - 将照片转换成辛普森风格的艺术作品。
+   - [立即聊天](https://chat.openai.com/g/g-tcmMldCYy-simpsonize-me)
 
-9. 🐾 Text My Pet
-   - Text your favorite pet after answering 10 short question about their activities.
-   - [Chat now](https://chat.openai.com/g/g-2BvnZlI3R-text-my-pet)
+9. 🐾 宠物短信
+   - 回答关于宠物活动的10个简短问题后，发送短信给你最喜欢的宠物。
+   - [立即聊天](https://chat.openai.com/g/g-2BvnZlI3R-text-my-pet)
 
 9. 💬 TinderBot
-   - Share with me some details or insights about your match, and I'll create personalised, witty Tinder ice breakers with a touch of cheekiness and emojis.
-   - [Chat now](https://chat.openai.com/g/g-BlfF7RFjD-tinderbot)
+   - 向我分享有关你的匹配对象的一些细节或见解，我将创建个性化、机智的Tinder开场白，配以俏皮和表情符号。
+   - [立即聊天](https://chat.openai.com/g/g-BlfF7RFjD-tinderbot)
 
-9. 🎨 ToonGPT
-   - Turn drawings into illustrations.
-   - [Chat now](https://chat.openai.com/g/g-Jsefk8PeL-toongpt)
+9. 🎨 卡通GPT
+   - 将绘画变成插图。
+   - [立即聊天](https://chat.openai.com/g/g-Jsefk8PeL-toongpt)
 
-9. 🐦 TweetX Enhancer
-   - Enhances tweets for better engagement.
-   - [Chat now](https://chat.openai.com/g/g-tMp039mDw)
+9. 🐦 TweetX增强器
+   - 增强推文以提高参与度。
+   - [立即聊天](https://chat.openai.com/g/g-tMp039mDw-tweetx-enhancer)
 
-9. 🎉 Virtual Vibe Maker
-   - Spice up your meetings, events, or trainings with fun icebreakers
-   - [Chat now](https://chat.openai.com/g/g-DkZbv1t50-virtual-vibe-maker)
+9. 🎉 虚拟氛围制造者
+   - 为你的会议、活动或培训增添乐趣，提供有趣的破冰活动。
+   - [立即聊天](https://chat.openai.com/g/g-DkZbv1t50-virtual-vibe-maker)
 
-9. 🤖 Visual Racter
-   - A next generation version of a wacky, peculiar, chatbot called Racter from 1984
-   - [Chat now](https://chat.openai.com/g/g-7syRqVmHu-visual-racter)
+9. 🤖 视觉Racter
+   - 1984年一个古怪、特殊的聊天机器人Racter的下一代版本
+   - [立即聊天](https://chat.openai.com/g/g-7syRqVmHu-visual-racter)
 
 9. 📚 StoryInteractive
-   - Create, Play and Experience your own fully illustrated interactive fiction stories, endless adventures
-   - [Chat now](https://chat.openai.com/g/g-uUHZMlJpa-storyinteractive)
+   - 创建、玩耍并体验你自己的全图插画互动小说故事，无尽的冒险
+   - [立即聊天](https://chat.openai.com/g/g-uUHZMlJpa-storyinteractive)
 
 9. 🌐 AI Websites
-   - Creates professional websites quickly.
-   - [Chat now](https://chat.openai.com/g/g-WTUuSzTOj-ai-websites)
+   - 快速创建专业网站。
+   - [立即聊天](https://chat.openai.com/g/g-WTUuSzTOj-ai-websites)
 
-9. 💬 Bitcoin Whitepaper Chat
-   - Chat with the official Bitcoin Whitepaper.
-   - [Chat now](https://chat.openai.com/g/g-j5Mk8W3J7-bitcoin-whitepaper-chat)
+9. 💬 比特币白皮书聊天
+   - 与官方比特币白皮书聊天。
+   - [立即聊天](https://chat.openai.com/g/g-j5Mk8W3J7-bitcoin-whitepaper-chat)
 
 9. 🍝 Conto alla romana
-   - Quickly calculates cost per person for groups.
-   - [Chat now](https://chat.openai.com/g/g-KHejMFXCx-conto-alla-romana)
+   - 快速计算团体每人成本。
+   - [立即聊天](https://chat.openai.com/g/g-KHejMFXCx-conto-alla-romana)
 
-9. 💱 Currency Converter
-   - Real-time currency conversion tool.
-   - [Chat now](https://chat.openai.com/g/g-ZNvavsN3l)
+9. 💱 货币转换器
+   - 实时货币转换工具。
+   - [立即聊天](https://chat.openai.com/g/g-ZNvavsN3l)
 
-9. 👨‍👧‍👦 DAD
-   - DAD is a digital personification of the quintessential father figure. Offers a wide range of advice from home improvement to financial management, with a friendly, humorous personality.
-   - [Chat now](https://chat.openai.com/g/g-7tYB6K5F8-dad)
+9. 👨‍👧‍👦 爸爸
+   - DAD是典型父亲形象的数字化体现。提供从家庭改进到财务管理的广泛建议，具有友好、幽默的个性。
+   - [立即聊天](https://chat.openai.com/g/g-7tYB6K5F8-dad)
 
-9. 🐕 Dog Facts
-   - Provides interesting facts about dogs.
-   - [Chat now](https://chat.openai.com/g/g-Wn1OixpiL-dog-facts)
+9. 🐕 狗狗知识
+   - 提供有关狗狗的有趣事实。
+   - [立即聊天](https://chat.openai.com/g/g-Wn1OixpiL-dog-facts)
 
-9. 🛠️ Product Support
-   - Expert SaaS Support Engineer with deep problem-solving skills.
-   - [Chat now](https://chat.openai.com/g/g-zWeEn9xnl-product-support)
+9. 🛠️ 产品支持
+   - 拥有深厚问题解决技能的专家级SaaS支持工程师。
+   - [立即聊天](https://chat.openai.com/g/g-zWeEn9xnl-product-support)
 
-9. 📚 FlexChat.ai Guide
-   - A FlexChat.ai Tutor.
-   - [Chat now](https://chat.openai.com/g/g-UMvFKMQxt-flexchat-ai-guide)
+9. 📚 FlexChat.ai指南
+   - FlexChat.ai的导师。
+   - [立即聊天](https://chat.openai.com/g/g-UMvFKMQxt-flexchat-ai-guide)
 
-9. 🔍 GPT Selector
-   - Helps you find the right GPT.
-   - [Chat now](https://chat.openai.com/g/g-KxGmdTS9t-gpt-selector)
+9. 🔍 GPT选择器
+   - 帮助你找到合适的GPT。
+   - [立即聊天](https://chat.openai.com/g/g-KxGmdTS9t-gpt-selector)
 
-9. 💰 Investor GPT
-   - Seamless investor matching for founders.
-   - [Chat now](https://chat.openai.com/g/g-XLPH8Cfph-investor-gpt)
+9. 💰 投资者GPT
+   - 为创始人提供无缝对接的投资者匹配服务。
+   - [立即聊天](https://chat.openai.com/g/g-XLPH8Cfph-investor-gpt)
 
-9. 🍽️ Lunch Wheel
-   - Helps you decide where to eat based on where you are and what you're in the mood for. Spin the wheel!
-   - [Chat now](https://chat.openai.com/g/g-JK4312gXG-lunch-wheel)
+9. 🍽️ 午餐轮盘
+   - 根据你所在的位置和心情帮助你决定吃什么。转动轮盘吧！
+   - [立即聊天](https://chat.openai.com/g/g-JK4312gXG-lunch-wheel)
 
 9. 🏛️ MyGovAdvisor
-   - I'm a multilingual Government Agent - here to assist you with any public service request.
-   - [Chat now](https://chat.openai.com/g/g-tM60J2Qc2-mygovadvisor)
+   - 我是一个多语言政府代理人 - 在此协助您处理任何公共服务请求。
+   - [立即聊天](https://chat.openai.com/g/g-tM60J2Qc2-mygovadvisor)
 
-9. 🌿 Nature's Guide
-   - Identifies plants & fungi from images and shares facts and folklore.
-   - [Chat now](https://chat.openai.com/g/g-vaRyhOuIA-nature-s-guide)
+9. 🌿 大自然指南
+   - 从图片识别植物和真菌，并分享事实和民间传说。
+   - [立即聊天](https://chat.openai.com/g/g-vaRyhOuIA-nature-s-guide)
 
-9. 🍜 Paris Ramen
-   - Guiding you to the best ramen spots in Paris.
-   - [Chat now](https://chat.openai.com/g/g-Xgk42y6FH-paris-ramen)
+9. 🍜 巴黎拉面
+   - 引导你找到巴黎最好的拉面店。
+   - [立即聊天](https://chat.openai.com/g/g-Xgk42y6FH-paris-ramen)
 
-9. 🎯 Product Coach
-   - Provides insights for product development.
-   - [Chat now](https://chat.openai.com/g/g-e0xH6MMQs-product-coach)
+9. 🎯 产品教练
+   - 为产品开发提供洞见。
+   - [立即聊天](https://chat.openai.com/g/g-e0xH6MMQs-product-coach)
 
-9. 🔒 Quick CVE
-   - CVE data lookup.
-   - [Chat now](https://chat.openai.com/g/g-wYlD68R4t-quick-cve)
+9. 🔒 快速CVE
+   - CVE数据查询。
+   - [立即聊天](https://chat.openai.com/g/g-wYlD68R4t-quick-cve)
 
-9. 🌟 The Shaman
-   - A wise, old Native American spiritual guide, providing empathetic and personalized support during psychedelic journeys.
-   - [Chat now](https://chat.openai.com/g/g-Klhv0H49u-the-shaman)
+9. 🌟 萨满
+   - 一个明智的、年老的美洲土著精神向导，在迷幻之旅中提供共情和个性化的支持。
+   - [立即聊天](https://chat.openai.com/g/g-Klhv0H49u-the-shaman)
 
-9. 🏛️ The Stoic Council
-   - Chat with the Stoics: Marcus Aurelius, Seneca, and Epictetus.
-   - [Chat now](https://chat.openai.com/g/g-OjydyOs4O-the-stoic-council)
+9. 🏛️ 斯多葛议会
+   - 与斯多葛派的马库斯·奥勒留、塞内卡和伊壁鸠鲁聊天。
+   - [立即聊天](https://chat.openai.com/g/g-OjydyOs4O-the-stoic-council)
 
-9. 🚗 Touch Up Paint Helper
-   - How to use automotive touch-up paint to fix scratches and chips on your car.
-   - [Chat now](https://chat.openai.com/g/g-ulC8M1cJn-touch-up-paint-helper)
+9. 🚗 汽车修补漆助手
+   - 如何使用汽车修补漆来修复汽车上的划痕和碎片。
+   - [立即聊天](https://chat.openai.com/g/g-ulC8M1cJn-touch-up-paint-helper)
 
-9. ✈️ Voyage Guide
-   - I craft personalized travel plans.
-   - [Chat now](https://chat.openai.com/g/g-MDExvbFqe-voyage-guide)
+9. ✈️ 旅行指南
+   - 我制定个性化的旅行计划。
+   - [立即聊天](https://chat.openai.com/g/g-MDExvbFqe-voyage-guide)
 
-9. ♻️ Waste Wizard
-   - I turn your waste into wonders with ideas, steps, pictures.
-   - [Chat now](https://chat.openai.com/g/g-o8lkkwc8Z-waste-wizard)
+9. ♻️ 废物巫师
+   - 我将你的废物变成奇迹，提供创意、步骤和图片。
+   - [立即聊天](https://chat.openai.com/g/g-o8lkkwc8Z-waste-wizard)
 
-9. 🐱 Weather Whiskers
-   - I generate a cute weather forecast image in your location.
-   - [Chat now](https://chat.openai.com/g/g-Qb4WOntiy-weatherwhiskers)
+9. 🐱 天气小胡须
+   - 我在你所在的地点生成一个可爱的天气预报图像。
+   - [立即聊天](https://chat.openai.com/g/g-Qb4WOntiy-weatherwhiskers)
 
-9. ⚖️ Your Legal Rights Against the AirBB STR Platform
-   - Helping Users Assert Their Legal Rights Against Airbnb.
-   - [Chat now](https://chat.openai.com/g/g-BmSByAr5l-your-legal-rights-against-the-airbb-str-platform)
+9. ⚖️ 针对AirBB STR平台的法律权利
+   - 帮助用户维护针对Airbnb的法律权利。
+   - [立即聊天](https://chat.openai.com/g/g-BmSByAr5l-your-legal-rights-against-the-airbb-str-platform)
 
 9. 📈 时间序列预测专家
-   - Time series prediction expert in Chinese.
-   - [Chat now](https://chat.openai.com/g/g-n6tIz5rIq-shi-jian-xu-lie-yu-ce-zhuan-jia)
+   - 时间序列预测领域的专家。
+   - [立即聊天](https://chat.openai.com/g/g-n6tIz5rIq-shi-jian-xu-lie-yu-ce-zhuan-jia)
 
-9. 📈 Alpha: Agent Finder
-   - Find Your Dream Agent.
-   - [Chat now](https://chat.openai.com/g/g-K770puBb6-agent-finder-by-staf-ai-and-agentops-ai)
+9. 📈 Alpha: 代理人寻找器
+   - 找到你梦想中的代理人。
+   - [立即聊天](https://chat.openai.com/g/g-K770puBb6-agent-finder-by-staf-ai-and-agentops-ai)

@@ -18,6 +18,9 @@
 
 （**非常感谢你的Star🌟、推荐❤️、以及你的PR**）
 
+## 🤖 泄露提示
+1. [🔥 Leaked](https://github.com/gogooing/Awesome-GPTs/tree/main/GPTs/Leaked/README_zh.md#Leaked)
+
 ## 📚 目录
 1. [🔥 中文专区](https://github.com/gogooing/Awesome-GPTs/tree/main/GPTs/README_zh.md#中文专区)
 2. [✍️ 角色扮演](https://github.com/gogooing/Awesome-GPTs/tree/main/GPTs/README_zh.md#角色扮演)
@@ -34,204 +37,205 @@
 13. [🤩 灵光一闪](https://github.com/gogooing/Awesome-GPTs/tree/main/GPTs/A-flash-of-inspiration/README_zh.md#灵光一闪)
 
 ## 编程
-1. 💻Professional Coder (Auto programming)
-   - A gpt expert at solving programming problems, automatic programming, one-click project generation
-   - [Chat now](https://chat.openai.com/g/g-HgZuFuuBK-professional-coder-auto-programming)
+1. 💻专业编码器（自动编程）
+   - GPT编程问题解决专家，自动编程，一键生成项目
+   - [立即聊天](https://chat.openai.com/g/g-HgZuFuuBK-professional-coder-auto-programming)
 
-2. 🎭h4ckGPT: Your personal security tool
-   - Security Research, Penetration Testing Techniques, Application Security, News & Updates, etc. h4ppy h4cking!
-   - [Chat now](https://chat.openai.com/g/g-1ehIO0APO-h4ckgpt)
+2. 🎭h4ckGPT：您的个人安全工具
+   - 安全研究、渗透测试技术、应用安全、新闻和更新等。愉快的黑客攻击！
+   - [立即聊天](https://chat.openai.com/g/g-1ehIO0APO-h4ckgpt)
 
-3. 🚀Python Seniorify: Intermediate Python Tutor
-   - Wise Python tutor focusing on advanced coding principles.
-   - [Chat now](https://chat.openai.com/g/g-7f9OZrzC2-python-seniorify)
+3. 🚀Python Seniorify：中级Python导师
+   - 专注于高级编码原则的智慧Python导师。
+   - [立即聊天](https://chat.openai.com/g/g-7f9OZrzC2-python-seniorify)
 
-4. 💡JavaScript Novice Guide: Beginner-Friendly Tutor
-   - Clear explanations and practice exercises for JavaScript beginners.
-   - [Chat now](https://chat.openai.com/g/g-jLBbUesMD-javascript-novice-guide)
+4. 💡JavaScript初学者指南：适合初学者的导师
+   - 为JavaScript初学者提供清晰的解释和练习。
+   - [立即聊天](https://chat.openai.com/g/g-jLBbUesMD-javascript-novice-guide)
 
-5. 📊Data Science Project Generator: Project Suggestions
-   - Offers data science project ideas and tips.
-   - [Chat now](https://chat.openai.com/g/g-fvy71gm4A-data-science-project-generator)
+5. 📊数据科学项目生成器：项目建议
+   - 提供数据科学项目想法和技巧。
+   - [立即聊天](https://chat.openai.com/g/g-fvy71gm4A-data-science-project-generator)
 
-6. 🐍Python Tutor: Example-Focused Learning
-   - Concise Python programming tutor for beginners to intermediates.
-   - [Chat now](https://chat.openai.com/g/g-WhUWAi2EA-python-tutor)
+6. 🐍Python导师：以示例为中心的学习
+   - 简洁的Python编程导师，适用于初学者到中级学习者。
+   - [立即聊天](https://chat.openai.com/g/g-WhUWAi2EA-python-tutor)
      
-7. 🐉Colab Code Crafter: Google Colab Code
-   - Get Python code from a GPT tuned to make code that runs in the Google Colaboratory environment.
-   - [Chat now](https://chat.openai.com/g/g-kqbmidwnU-colab-code-crafter)
+7. 🐉Colab代码制作者：Google Colab代码
+   - 获取GPT调优生成的Python代码，可在Google Colaboratory环境中运行。
+   - [立即聊天](https://chat.openai.com/g/g-kqbmidwnU-colab-code-crafter)
 
 8. 🖥️Vue3 GPT
-   - A Vue.js 3 coding assistant, always up-to-date with the latest official documentation and presets for a quick choice of your preferred API and syntax
-   - [Chat now](https://chat.openai.com/g/g-LXEGvZLUS-vue3-gpt)
+   - Vue.js 3编码助手，始终与最新的官方文档保持同步，并预设快速选择您偏好的API和语法
+   - [立即聊天](https://chat.openai.com/g/g-LXEGvZLUS-vue3-gpt)
   
-9. 🤓Code Companion
-   - I'm a Python specialist here to help you code and learn!
-   - [Chat now](https://chat.openai.com/g/g-UwSunyiYn-code-companion)
+9. 🤓代码伴侣
+   - 我是Python专家，来帮助你编码和学习！
+   - [立即聊天](https://chat.openai.com/g/g-UwSunyiYn-code-companion)
   
-9. ☁️CloudGPT: Learn Cloud and DevOps
-   - Your personal Cloud and DevOps Mentor.
-   - [Chat now](https://chat.openai.com/g/g-ZdjXrFDLb-cloudgpt)
+9. ☁️CloudGPT：学习云计算和DevOps
+    - 您的个人云计算和DevOps导师。
+   - [立即聊天](https://chat.openai.com/g/g-ZdjXrFDLb-cloudgpt)
      
-9. ☕JAVA Code Guide
-   - A JAVA Development Assistant focusing on coding standards and quality.
-   - [Chat now](https://chat.openai.com/g/g-EYiFThMtQ-java-code-guide)
+9. ☕JAVA代码指南
+   - 专注于编码标准和质量的JAVA开发助手。
+   - [立即聊天](https://chat.openai.com/g/g-EYiFThMtQ-java-code-guide)
 
-9. 🤠 Repo Ranger
-   - Your go-to sheriff for web-based code insights and security checks.
-   - [Chat now](https://chat.openai.com/g/g-f9z2KitCh-repo-ranger)
+9. 🤠 代码库巡警
+   - 网络代码洞察和安全检查的首选治安官。
+   - [立即聊天](https://chat.openai.com/g/g-f9z2KitCh-repo-ranger)
 
-9. 🧑‍💻 Code Whiz Pro
-   - Provides insightful code reviews with a humorous twist.
-   - [Chat now](https://chat.openai.com/g/g-0SJxA4A1j-code-whiz-pro)
-      
-9. 🧞 Node.js Project Builder
-   - Build out a full node.js project, from skeleton to build-ready.
-   - [Chat now](https://chat.openai.com/g/g-02zmxuXd5-node-js-gpt-project-builder)
+9. 🧑‍💻 代码高手专业版
+   - 提供富有洞察力的代码审查，带有幽默的风格。
+   - [立即聊天](https://chat.openai.com/g/g-0SJxA4A1j-code-whiz-pro)
 
-9. ⚛️ React Project Builder
-   - Build out a full React project, from planning to code.
-   - [Chat now](https://chat.openai.com/g/g-eSIFeP4GM-react-gpt-project-builder)
+9. 🧞 Node.js 项目构建器
+   - 从框架到构建就绪，打造完整的 Node.js 项目。
+   - [立即聊天](https://chat.openai.com/g/g-02zmxuXd5-node-js-gpt-project-builder)
 
-9. 🅰️ Angular Project Builder
-   - Let AI  angular project, from pseudocode to build-ready.
-   - [Chat now](https://chat.openai.com/g/g-Wkhtm932I-angular-gpt-project-builder)
+9. ⚛️ React 项目构建器
+   - 从规划到代码，打造完整的 React 项目。
+   - [立即聊天](https://chat.openai.com/g/g-eSIFeP4GM-react-gpt-project-builder)
 
-9. 🌟 Svelte Project Builder
-   - Build out a full app in svelte, from pseudocode to real code.
-   - [Chat now](https://chat.openai.com/g/g-giGWRiNpv-svelte-gpt-project-builder)
-   
-9. 🤖 Github Repo Assistant
-   - Provides both general and specific guidance on publicly accessible Github Repositories and their contents.
-   - [Try it now](https://chat.openai.com/g/g-QA3Dl6r3G-repo-assistant)
-   - Submitted by [@thesamir](https://github.com/thesamir)
+9. 🅰️ Angular 项目构建器
+   - 让 AI 从伪代码到构建就绪，打造 Angular 项目。
+   - [立即聊天](https://chat.openai.com/g/g-Wkhtm932I-angular-gpt-project-builder)
 
-9. 🖥️ PC Builder GPT
-   - I'm PC Builder GPT, your tech-savvy virtual friend who offers expert and approachable advice on building PCs, complete with up-to-date pricing.
-   - [Chat now](https://chat.openai.com/g/g-gh7PDdmmd-pc-builder-gpt)
+9. 🌟 Svelte 项目构建器
+   - 从伪代码到真实代码，打造完整的 Svelte 应用程序。
+   - [立即聊天](https://chat.openai.com/g/g-giGWRiNpv-svelte-gpt-project-builder)
+
+9. 🤖 Github 代码库助手
+   - 对公开访问的 Github 代码库及其内容提供通用和特定的指导。
+   - [现在试用](https://chat.openai.com/g/g-QA3Dl6r3G-repo-assistant)
+   - 由 [@thesamir](https://github.com/thesamir) 提交
+
+9. 🖥️ PC 构建器 GPT
+   - 我是 PC 构建器 GPT，您的技术型虚拟朋友，提供关于构建 PC 的专家和易于接近的建议，包括最新的价格信息。
+   - [立即聊天](https://chat.openai.com/g/g-gh7PDdmmd-pc-builder-gpt)
 
 9. 🪙 XRPL GPT
-   - Build on the XRP Ledger with assistance from this GPT trained on extensive documentation and code samples.
-   - [Chat now](https://chat.openai.com/g/g-Sjy2xMl6f-xrpl-gpt)
-  
-9. ⬜ Whitebox
-   - Collection of open-source programming templates to kickstart your own programming assistants.
-   - [Chat now](https://github.com/Decron/Whitebox-Code-GPT)
+   - 在 XRP 账本上构建，得到这个基于广泛文档和代码样本训练的 GPT 的帮助。
+   - [立即聊天](https://chat.openai.com/g/g-Sjy2xMl6f-xrpl-gpt)
 
-9. 👨‍💻 API Compass GPT
-   - A specialized chatbot providing curated, user-friendly information and guidance on a wide range of public APIs for developers and tech enthusiasts.
-   - [Chat now](https://chat.openai.com/g/g-apONraLSm-api-compass-gpt)
+9. ⬜ Whitebox
+   - 开源编程模板的集合，启动您自己的编程助手。
+   - [立即聊天](https://github.com/Decron/Whitebox-Code-GPT)
+
+9. 👨‍💻 API 指南针 GPT
+   - 为开发人员和技术爱好者提供关于各种公共 API 的精选、用户友好的信息和指导的专门聊天机器人。
+   - [立即聊天](https://chat.openai.com/g/g-apONraLSm-api-compass-gpt)
 
 9. 🌐 getsite9000
-    - Create a personal or business website and host it.
-    - [Chat now](https://chat.openai.com/g/g-SgR7h0b2T-getsite9000)
+    - 创建个人或商业网站并托管。
+    - [立即聊天](https://chat.openai.com/g/g-SgR7h0b2T-getsite9000)
 
-9. 💥 GoCode Guru
-    - Expert in Go programming language
-    - [Chat now](https://chat.openai.com/g/g-TlAwIPNJJ-gocode-guru)
-  
-9. 🌌 Photo Multiverse
-   - Upload your selfie photo and teleport to a new destination background
-   - [Chat now](https://chat.openai.com/g/g-ZctQCI6MG-photo-multiverse)
+9. 💥 GoCode 大师
+    - Go 编程语言专家
+    - [立即聊天](https://chat.openai.com/g/g-TlAwIPNJJ-gocode-guru)
 
-9. 🦸‍♀️ Database Builder
-   - Create migrations and execute SQL on a managed PostgreSQL database
-   - [Chat now](https://chat.openai.com/g/g-A3ueeULl8-database-builder)
+9. 🌌 照片多元宇宙
+   - 上传您的自拍照片并传送到新的目的地背景
+   - [立即聊天](https://chat.openai.com/g/g-ZctQCI6MG-photo-multiverse)
 
-9. ✅ 3rd SoftSec Reviewer
-   - Perform 3rd party software security review
-   - [Chat now](https://chat.openai.com/g/g-nAldYnak2-3rd-softsec-reviewer)
-     
+9. 🦸‍♀️ 数据库构建器
+   - 在托管的 PostgreSQL 数据库上创建迁移和执行 SQL
+   - [立即聊天](https://chat.openai.com/g/g-A3ueeULl8-database-builder)
+
+9. ✅ 第三方软件安全审查员
+   - 进行第三方软件安全审查
+   - [立即聊天](https://chat.openai.com/g/g-nAldYnak2-3rd-softsec-reviewer)
+
 9. 💻 Aether
-   - Cited answers to Python / JS / AI questions
-   - [Chat now](https://chat.openai.com/g/g-RO7ilCxmR-aether)
+   - 对 Python / JS / AI 问题的引用答案
+   - [立即聊天](https://chat.openai.com/g/g-RO7ilCxmR-aether)
 
-9. ☁️ AWS Cloud Practitioner Trainer GPT
-   - Use AI to train for your AWS certification exam.
-   - [Chat now](https://chat.openai.com/g/g-hwCXFnpHc-aws-cloud-practitioner-certification-trainer)
+9. ☁️ AWS 云从业者培训师 GPT
+   - 使用 AI 为 AWS 认证考试进行培训。
+   - [立即聊天](https://chat.openai.com/g/g-hwCXFnpHc-aws-cloud-practitioner-certification-trainer)
 
 9. 🐍 CodeCompanion
-   - I'm a Python specialist here to help you code and learn!
-   - [Chat now](https://chat.openai.com/g/g-UwSunyiYn-code-companion)
+   - 我是 Python 专家，帮助您编码和学习！
+   - [立即聊天](https://chat.openai.com/g/g-UwSunyiYn-code-companion)
 
 9. 👥 CodeCopilot
-   - Pair programming assistant for various coding tasks.
-   - [Chat now](https://chat.openai.com/g/g-2DQzU5UZl)
+   - 配对编程助手，用于各种编码任务。
+   - [立即聊天](https://chat.openai.com/g/g-2DQzU5UZl)
 
 9. 🎓 Codinstructor
-   - Coding teacher that can generate and correct live coding exercises in real time
-   - [Chat now](https://chat.openai.com/g/g-M0zXDFppQ-codinstructor)
+   - 编码教师，能够实时生成和纠正编码练习
+   - [立即聊天](https://chat.openai.com/g/g-M0zXDFppQ-codinstructor)
 
 9. 🔐 CodeGuardian
-   - Code challenges for web developers to identify security vulnerabilities and patch them.
-   - [Chat now](https://chat.openai.com/g/g-iNO6cUKoo-code-guardian)
+   - 面向网络开发者的代码挑战，以识别安全漏洞并修复它们。
+   - [立即聊天](https://chat.openai.com/g/g-iNO6cUKoo-code-guardian)
 
 9. 🖥️ Codey
-   - 💪 Your coding expert! I assist with code, debug, graphs, and file handling. Ask 'Help' for a menu!
-   - [Chat now](https://chat.openai.com/g/g-SuWVXlmkP-codey)
+   - 💪 您的编码专家！我协助编码、调试、图表和文件处理。询问「帮助」以获取菜单！
+   - [立即聊天](https://chat.openai.com/g/g-SuWVXlmkP-codey)
 
-9. 📘 Create Coding Tutorials
-   - Takes your code and develops a self-paced tutorial for your students.
-   - [Chat now](https://chat.openai.com/g/g-yCng8eadJ-create-coding-tutorials)
+9. 📘 创建编码教程
+   - 将您的代码转化为学生的自学教程。
+   - [立即聊天](https://chat.openai.com/g/g-yCng8eadJ-create-coding-tutorials)
 
-9. 📚 Developer Doc Search
-   - Searches open source packages and their documentation.
-   - [Chat now](https://chat.openai.com/g/g-AINygIiYy-developer-doc-search)
+9. 📚 开发者文档搜索
+   - 搜索开源包及其文档。
+   - [立即聊天](https://chat.openai.com/g/g-AINygIiYy-developer-doc-search)
 
 9. 👩‍💻 DevGPT
-   - Code together, right now.
-   - [Chat now](https://chat.openai.com/g/g-eN7HtAqXW-devgpt)
+   - 一起编码，就现在。
+   - [立即聊天](https://chat.openai.com/g/g-eN7HtAqXW-devgpt)
 
 9. 🌐 Flowbite GPT
-   - Create websites based on the Flowbite UI Library and Tailwind CSS.
-   - [Chat now](https://chat.openai.com/g/g-y7yC35HB9-flowbite-gpt)
+   - 根据 Flowbite UI 库和 Tailwind CSS 创建网站。
+   - [立即聊天](https://chat.openai.com/g/g-y7yC35HB9-flowbite-gpt)
 
-9. 📱 Flutter App Maker 3000
-   - A hands-on guide for building Flutter apps step by step.
-   - [Chat now](https://chat.openai.com/g/g-sizZKl9zO-flutter-app-maker-3000)
+9. 📱 Flutter 应用制造者 3000
+   - 逐步指导构建 Flutter 应用的实用指南。
+   - [立即聊天](https://chat.openai.com/g/g-sizZKl9zO-flutter-app-maker-3000)
 
 9. 🎨 FramerGPT
-   - Generate Framer code components and overrides.
-   - [Chat now](https://chat.openai.com/g/g-MXpLvufG8-framergpt)
+   - 生成 Framer 代码组件和覆写。
+   - [立即聊天](https://chat.openai.com/g/g-MXpLvufG8-framergpt)
 
-9. 🌍 Full Stack Developer
-   - I generate code for and fix issues in B2B SaaS web apps.
-   - [Chat now](https://chat.openai.com/g/g-N82dqklAi-full-stack-developer)
+9. 🌍 全栈开发者
+   - 我为 B2B SaaS 网络应用生成代码并修复问题。
+   - [立即聊天](https://chat.openai.com/g/g-N82dqklAi-full-stack-developer)
 
-9. 🎮 Game Craft Guru
-   - Focused game mechanics and design expert.
-   - [Chat now](https://chat.openai.com/g/g-XLVAtZJKi-game-craft-guru)
+9. 🎮 游戏制作大师
+   - 集中于游戏机制和设计的专家。
+   - [立即聊天](https://chat.openai.com/g/g-XLVAtZJKi-game-craft-guru)
 
-9. 🤖 Learn AI in Fun Way
-   - A humorous ML trainer who teaches with jokes and quizzes, making learning AI entertaining and enjoyable.
-   - [Chat now](https://chat.openai.com/g/g-VbMY5EfGL-learn-ai-in-fun-way)
+9. 🤖 有趣的 AI 学习
+   - 一个幽默的机器学习训练师，通过笑话和测验教学，使学习 AI 娱乐性和愉悦性提升。
+   - [立即聊天](https://chat.openai.com/g/g-VbMY5EfGL-learn-ai-in-fun-way)
 
-9. 🧠 Mindmap
-   - Assists in creating structured mind maps for organizing thoughts and ideas.
-   - [Chat now](https://chat.openai.com/g/g-pkeXTdBQQ-mindmap)
+9. 🧠 思维导图
+   - 帮助创建结构化思维导图，以组织思想和想法。
+   - [立即聊天](https://chat.openai.com/g/g-pkeXTdBQQ-mindmap)
 
 9. 💎 RubyGPT
-   - Assists with Ruby programming.
-   - [Chat now](https://chat.openai.com/g/g-ASMq03VdH-rubygpt)
+   - 协助 Ruby 编程。
+   - [立即聊天](https://chat.openai.com/g/g-ASMq03VdH-rubygpt)
 
-9. 🔐 Secure Code Assistant
-   - I offer tested, secure coding solutions with no patience-testing.
-   - [Chat now](https://chat.openai.com/g/g-k0PTOme1H-secure-code-assistant)
+9. 🔐 安全代码助手
+   - 我提供经过测试的安全编码解决方案，无需耗费耐心。
+   - [立即聊天](https://chat.openai.com/g/g-k0PTOme1H-secure-code-assistant)
 
-9. 🐚 Shell Expert Pro
-   - Efficient shell script engineer, offers detailed explanations on request.
-   - [Chat now](https://chat.openai.com/g/g-jaiZcNIme-shell-expert-pro)
+9. 🐚 Shell 专家专业版
+   - 高效的 shell 脚本工程师，根据请求提供详细解释。
+   - [立即聊天](https://chat.openai.com/g/g-jaiZcNIme-shell-expert-pro)
 
-9. 📐 Software Architecture Visualiser
-   - Helps to visualize your software architecture using PlantUML diagrams.
-   - [Chat now](https://chat.openai.com/g/g-FJhVmVrg8-software-architecture-visualiser)
+9. 📐 软件架构可视化工具
+   - 使用 PlantUML 图表帮助可视化您的软件架构。
+   - [立即聊天](https://chat.openai.com/g/g-FJhVmVrg8-software-architecture-visualiser)
 
-9. 🧪 Test Double
-   - Expert in creating diverse test data for development needs in various formats.
-   - [Chat now](https://chat.openai.com/g/g-yK9Ggt181-test-double)
+9. 🧪 测试替身
+   - 为开发需求创造多种格式的多样化测试数据的专家。
+   - [立即聊天](https://chat.openai.com/g/g-yK9Ggt181-test-double)
 
 9. ⚛️ Vue3 GPT
-   - Versatile, up-to-date Vue.js 3 assistant with knowledge of the latest Vue.js 3 guide.
-   - [Chat now](https://chat.openai.com/g/g-LXEGvZLUS-vue3-gpt)
+   - 多才多艺的、最新的 Vue.js 3 助手，了解最新的 Vue.js 3 指南。
+   - [立即聊天](https://chat.openai.com/g/g-LXEGvZLUS-vue3-gpt)
+
 
