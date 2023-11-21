@@ -23,7 +23,7 @@
 2. [✍️ 角色扮演](https://github.com/gogooing/Awesome-GPTs/blob/main/README_zh.md#角色扮演)
 3. [🐈 怼王王中王](https://github.com/gogooing/Awesome-GPTs/blob/main/README_zh.md#怼王王中王)
 4. [🎯 晓君助手](https://github.com/gogooing/Awesome-GPTs/blob/main/README_zh.md#晓君助手)
-5. [✍️ 写作](#写作)
+5. [✍️ 写作](https://github.com/gogooing/Awesome-GPTs/blob/main/Writing/README_zh.md#写作)
 6. [🎓 教育](https://github.com/gogooing/Awesome-GPTs/blob/main/Education/README_zh.md#教育)
 7. [🧠 生产力](https://github.com/gogooing/Awesome-GPTs/blob/main/Productivity/README_zh.md#生产力)
 8. [💻 编程](https://github.com/gogooing/Awesome-GPTs/blob/main/Programming/README_zh.md#编程)
