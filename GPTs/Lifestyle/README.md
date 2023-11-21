@@ -21,19 +21,19 @@ Stay tuned for more updates and advancements!
 -----
 
 ## 📚 Table of Contents
-1. [🔥 Today's Hottest](https://github.com/gogooing/Awesome-GPTs/blob/main/README.md#Today's-Hottest)
-2. [✍️ Role Playing](https://github.com/gogooing/Awesome-GPTs/blob/main/README.md#Role-Playing)
-3. [🐈 King of Dispute](https://github.com/gogooing/Awesome-GPTs/blob/main/README.md#King-of-Dispute)
-4. [🎯 Xiao Jun Assistant](https://github.com/gogooing/Awesome-GPTs/blob/main/README.md#Xiao-Jun-Assistant)
-5. [✍️ Writing](https://github.com/gogooing/Awesome-GPTs/blob/main/Writing/README.md#Writing)
-6. [🎓 Education](https://github.com/gogooing/Awesome-GPTs/blob/main/Education/README.md#Education)
-7. [🧠 Productivity](https://github.com/gogooing/Awesome-GPTs/blob/main/Productivity/README.md#Productivity)
-8. [💻 Programming](https://github.com/gogooing/Awesome-GPTs/blob/main/Programming/README.md#Programming)
+1. [🔥 Today's Hottest](https://github.com/gogooing/Awesome-GPTs/tree/main/GPTs/README.md#Today's-Hottest)
+2. [✍️ Role Playing](https://github.com/gogooing/Awesome-GPTs/tree/main/GPTs/README.md#Role-Playing)
+3. [🐈 King of Dispute](https://github.com/gogooing/Awesome-GPTs/tree/main/GPTs/README.md#King-of-Dispute)
+4. [🎯 Xiao Jun Assistant](https://github.com/gogooing/Awesome-GPTs/tree/main/GPTs/README.md#Xiao-Jun-Assistant)
+5. [✍️ Writing](https://github.com/gogooing/Awesome-GPTs/tree/main/GPTs/Writing/README.md#Writing)
+6. [🎓 Education](https://github.com/gogooing/Awesome-GPTs/tree/main/GPTs/Education/README.md#Education)
+7. [🧠 Productivity](https://github.com/gogooing/Awesome-GPTs/tree/main/GPTs/Productivity/README.md#Productivity)
+8. [💻 Programming](https://github.com/gogooing/Awesome-GPTs/tree/main/GPTs/Programming/README.md#Programming)
 9. [🦄 Lifestyle](#Lifestyle)
-10. [😀 Just for Fun](https://github.com/gogooing/Awesome-GPTs/blob/main/Just-for-Fun/README.md#Just-for-Fun)
-11. [☂  Weather](https://github.com/gogooing/Awesome-GPTs/blob/main/Weather/README.md#Weather)
-12. [🍴 Dining](https://github.com/gogooing/Awesome-GPTs/blob/main/Dining/README.md#dining)
-13. [🤩 A flash of inspiration](https://github.com/gogooing/Awesome-GPTs/blob/main/A-flash-of-inspiration/README.md#A-flash-of-inspiration)
+10. [😀 Just for Fun](https://github.com/gogooing/Awesome-GPTs/tree/main/GPTs/Just-for-Fun/README.md#Just-for-Fun)
+11. [☂  Weather](https://github.com/gogooing/Awesome-GPTs/tree/main/GPTs/Weather/README.md#Weather)
+12. [🍴 Dining](https://github.com/gogooing/Awesome-GPTs/tree/main/GPTs/Dining/README.md#dining)
+13. [🤩 A flash of inspiration](https://github.com/gogooing/Awesome-GPTs/tree/main/GPTs/A-flash-of-inspiration/README.md#A-flash-of-inspiration)
 
 ## Lifestyle
 1. 🍅 MyNutrition.Pal

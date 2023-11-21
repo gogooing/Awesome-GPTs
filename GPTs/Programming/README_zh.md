@@ -19,19 +19,19 @@
 （**非常感谢你的Star🌟、推荐❤️、以及你的PR**）
 
 ## 📚 目录
-1. [🔥 中文专区](https://github.com/gogooing/Awesome-GPTs/blob/main/README_zh.md#中文专区)
-2. [✍️ 角色扮演](https://github.com/gogooing/Awesome-GPTs/blob/main/README_zh.md#角色扮演)
-3. [🐈 怼王王中王](https://github.com/gogooing/Awesome-GPTs/blob/main/README_zh.md#怼王王中王)
-4. [🎯 晓君助手](https://github.com/gogooing/Awesome-GPTs/blob/main/README_zh.md#晓君助手)
-5. [✍️ 写作](https://github.com/gogooing/Awesome-GPTs/blob/main/Writing/README_zh.md#写作)
-6. [🎓 教育](https://github.com/gogooing/Awesome-GPTs/blob/main/Education/README_zh.md#教育)
-7. [🧠 生产力](https://github.com/gogooing/Awesome-GPTs/blob/main/Productivity/README_zh.md#生产力)
+1. [🔥 中文专区](https://github.com/gogooing/Awesome-GPTs/tree/main/GPTs/README_zh.md#中文专区)
+2. [✍️ 角色扮演](https://github.com/gogooing/Awesome-GPTs/tree/main/GPTs/README_zh.md#角色扮演)
+3. [🐈 怼王王中王](https://github.com/gogooing/Awesome-GPTs/tree/main/GPTs/README_zh.md#怼王王中王)
+4. [🎯 晓君助手](https://github.com/gogooing/Awesome-GPTs/tree/main/GPTs/README_zh.md#晓君助手)
+5. [✍️ 写作](https://github.com/gogooing/Awesome-GPTs/tree/main/GPTs/Writing/README_zh.md#写作)
+6. [🎓 教育](https://github.com/gogooing/Awesome-GPTs/tree/main/GPTs/Education/README_zh.md#教育)
+7. [🧠 生产力](https://github.com/gogooing/Awesome-GPTs/tree/main/GPTs/Productivity/README_zh.md#生产力)
 8. [💻 编程](#编程)
-9. [🦄 生活方式](https://github.com/gogooing/Awesome-GPTs/blob/main/Lifestyle/README_zh.md#生活方式)
-10. [😀 娱乐](https://github.com/gogooing/Awesome-GPTs/blob/main/Just-for-Fun/README_zh.md#娱乐)
-11. [☂  天气](https://github.com/gogooing/Awesome-GPTs/blob/main/Weather/README_zh.md#天气)
-12. [🍴 餐饮](https://github.com/gogooing/Awesome-GPTs/blob/main/Dining/README_zh.md#餐饮)
-13. [🤩 灵光一闪](https://github.com/gogooing/Awesome-GPTs/blob/main/A-flash-of-inspiration/README_zh.md#灵光一闪)
+9. [🦄 生活方式](https://github.com/gogooing/Awesome-GPTs/tree/main/GPTs/Lifestyle/README_zh.md#生活方式)
+10. [😀 娱乐](https://github.com/gogooing/Awesome-GPTs/tree/main/GPTs/Just-for-Fun/README_zh.md#娱乐)
+11. [☂  天气](https://github.com/gogooing/Awesome-GPTs/tree/main/GPTs/Weather/README_zh.md#天气)
+12. [🍴 餐饮](https://github.com/gogooing/Awesome-GPTs/tree/main/GPTs/Dining/README_zh.md#餐饮)
+13. [🤩 灵光一闪](https://github.com/gogooing/Awesome-GPTs/tree/main/GPTs/A-flash-of-inspiration/README_zh.md#灵光一闪)
 
 ## 编程
 1. 💻Professional Coder (Auto programming)
