@@ -367,3 +367,7 @@ Stay tuned for more updates and advancements!
 9. 🔗 URL Shortner
    - Shortens long URLs to more manageable links.
    - [Chat now](https://chat.openai.com/g/g-FmVxPJH0E-url-shortner)
+
+9. 🙋 ‍Resume Reader for Recruiters
+   - Help recruiters quickly analyze whether a candidate's resume matches the position and design interview questions.
+   - [Chat now](https://chat.openai.com/g/g-satpRB4ii)

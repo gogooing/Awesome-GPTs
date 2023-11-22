@@ -464,3 +464,7 @@ Stay tuned for more updates and advancements!
 9. 📈 Alpha: Agent Finder
    - Find Your Dream Agent.
    - [Chat now](https://chat.openai.com/g/g-K770puBb6-agent-finder-by-staf-ai-and-agentops-ai)
+
+9. 📰 News Quick Read
+   - Outline of the news. Find factual errors, argument errors, or paradoxes. Warn when it's too subjective and weak in prove.
+   - [Chat now](https://chat.openai.com/g/g-vWIiweqqk)

@@ -366,4 +366,6 @@
    - 将长链接缩短为更易管理的链接。
    - [立即聊天](https://chat.openai.com/g/g-FmVxPJH0E-url-shortner)
 
-
+9. 🙋‍ 招聘者的简历阅读器
+   - 帮助招聘者快速分析候选人的简历是否符合职位要求，并设计面试问题。
+   - [Chat now](https://chat.openai.com/g/g-satpRB4ii)

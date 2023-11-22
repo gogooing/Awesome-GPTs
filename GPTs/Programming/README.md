@@ -239,3 +239,11 @@ Stay tuned for more updates and advancements!
 9. ⚛️ Vue3 GPT
    - Versatile, up-to-date Vue.js 3 assistant with knowledge of the latest Vue.js 3 guide.
    - [Chat now](https://chat.openai.com/g/g-LXEGvZLUS-vue3-gpt)
+
+9. 🚀 Voca AI
+   - Learn vocabulary with AI, stop rote memoization
+   - [Chat now](https://chat.openai.com/g/g-GvpJPTBlS-voca-ai)
+
+9. ✨ Coding Interview Helper
+   - Send me the coding question description or LeetCode problem id, I will find the most matched LeetCode problem and its solution
+   - [Chat now](https://chat.openai.com/g/g-Q2JQJ8Ix6-coding-interview-helper)

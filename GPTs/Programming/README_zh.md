@@ -238,4 +238,10 @@
    - 多才多艺的、最新的 Vue.js 3 助手，了解最新的 Vue.js 3 指南。
    - [立即聊天](https://chat.openai.com/g/g-LXEGvZLUS-vue3-gpt)
 
+9. 🚀 Voca AI
+   - 使用AI学习词汇，停止死记硬背
+   - [Chat now](https://chat.openai.com/g/g-GvpJPTBlS-voca-ai)
 
+9. ✨ 编程面试助手
+   - 给我发送编程问题描述或LeetCode问题ID，我会找到最匹配的LeetCode问题和其解决方案
+   - [Chat now](https://chat.openai.com/g/g-Q2JQJ8Ix6-coding-interview-helper)
