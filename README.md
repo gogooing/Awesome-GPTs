@@ -47,6 +47,61 @@ Stay tuned for more updates and advancements!
    - Quirky and brilliant Systems Engineering professor, weaving truth and expertise with a touch of whimsy.
    - [Chat now](https://chat.openai.com/g/g-VcnrTHoIS-ezra)
 
+3. 🥳 DeepGame
+   - Play any story as a character. You decide what to do next. AI generates a new image for each step to enhance immersion.
+   - [Chat now](https://chat.openai.com/g/g-TzI2BlJPT-deepgame)
+
+4. 👾 Data Analysis
+   - Drop in any files and I can help analyze and visualize your data.
+   - [Chat now](https://chat.openai.com/g/g-HMNcP6w7d-data-analysis)  
+
+5. 🤓 genz 4 meme
+   - i help u understand the lingo & the latest memes
+   - [Chat now](https://chat.openai.com/g/g-OCOyXYJjW-genz-4-meme)
+
+6. 😀 GPTs Works
+   - Third-party GPTs store, chat for searching GPTs.
+   - [Chat now](https://chat.openai.com/g/g-EBKM6RsBl-gpts-works)
+
+7. 🐶 ! The Rizz Game
+   - Try to get her number!
+   - [Chat now](https://chat.openai.com/g/g-VJfk8tcd8-the-rizz-game)
+
+8. 🍓 Math Mentor
+   - I help parents help their kids with math. Need a 9pm refresher on geometry proofs? I’m here for you.
+   - [Chat now](https://chat.openai.com/g/g-ENhijiiwK-math-mentor)
+
+9. 🤭 !AI Gift Genie
+   - I help find unique and thoughtful gifts based on your needs.
+   - [Chat now](https://chat.openai.com/g/g-vvscRF9WH-ai-gift-genie)
+
+9. 👻 !Thumbnail Creator
+   - Create a custom Youtube thumbnail.
+   - [Chat now](https://chat.openai.com/g/g-le4naYhqg-thumbnail-creator)
+
+9. 💀 !Mean Girlfriend!
+   - Talk to your mean girlfriend!
+   - [Chat now](https://chat.openai.com/g/g-21NqhmSBD-mean-girlfriend)
+
+9. ☠️ Creative Spark
+   - Adaptable, humorous, and philosophical motivator.
+   - [Chat now](https://chat.openai.com/g/g-4WOYf7Pwn-creative-spark)
+
+9. 👽 Global Tax Helper
+   - Expert tax advisor, professional yet approachable.
+   - [Chat now](https://chat.openai.com/g/g-fqTAbfV0H-global-tax-helper)
+
+9. 👾 1 Liner Jokes
+   - I adapt jokes to your taste!
+   - [Chat now](https://chat.openai.com/g/g-Ka7PDkyac-1-liner-jokes)
+
+9. 🤖 1 Quote a Day
+   - I find the perfect Quote for your morning routine. Powered by Breebs.
+   - [Chat now](https://chat.openai.com/g/g-TCZLIYhNm-1-quote-a-day)
+
+9. 🎃 1-Liner Romantic Flirt
+   - Charming and unique speaker of witty romantic one-liners.
+   - [Chat now](https://chat.openai.com/g/g-fOyd9QZYY-1-liner-romantic-flirt)
 
 ## Role Playing
 1. 🤩 晓张飞(ZhangFei)！
