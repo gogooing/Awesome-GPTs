@@ -62,3 +62,7 @@ Stay tuned for more updates and advancements!
 6. ✨ editGPT
    - Proofread, edit and track changes to your text inside ChatGPT. Works in conjunction with the editGPT browser extension allowing you to accept and reject changes without leaving ChatGPT.
    - [Chat now](https://chat.openai.com/g/g-zpuYfzV7k-editgpt)
+
+7. 🎥 Viral YouTube Ideas by Ideacadabra
+   - YouTube Creators! I personalize viral video ideas for your channel.
+   - [Chat now](https://chat.openai.com/g/g-yGCt9ZipA-viral-youtube-video-ideas-by-ideacadabra)

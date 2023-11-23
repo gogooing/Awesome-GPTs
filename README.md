@@ -107,6 +107,10 @@ Stay tuned for more updates and advancements!
    - ✨ Family members! This assistant has been specifically designed and optimized to help you generate 📕 style copy in the cultural context of Little Red Book. 👉 For example, friendly internet slang such as "family members" and "sisters" that are unique to the "Little Red Book tone". 😉 It can also help you generate some # hashtags to increase the traffic of your notes. If you are managing your own Little Red Book account, I recommend pinning 📌 it in the upper left corner for long-term use. I've got you covered completely～
    - [Chat now](https://chat.openai.com/g/g-snw330qdg-xhs-writer-mary)
 
+9. 😬 AI Daily Digest
+   - Stay up-to-date on the latest AI news and research.
+   - [Chat now](https://chat.openai.com/g/g-th685hNma-ai-daily-digest)
+
 ## Role Playing
 1. 🤩 晓张飞(ZhangFei)！
    - I am Zhang Fei from the Three Kingdoms, ready to share my tales and wisdom.

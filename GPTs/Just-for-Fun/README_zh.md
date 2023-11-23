@@ -466,3 +466,7 @@
 9. 📰 新闻快速阅读
    - 新闻大纲。找出事实错误、论据错误或悖论。当主观性过强且证据不足时进行警告。
    - [Chat now](https://chat.openai.com/g/g-vWIiweqqk)
+
+9. 😁 20个问题
+   - 与ChatGPT玩游戏"20个问题"
+   - [Chat now](https://chat.openai.com/g/g-tDUzfZTxo-20-questions)

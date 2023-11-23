@@ -61,3 +61,6 @@
    - 校对、编辑并跟踪您在 ChatGPT 中的文本更改。与 editGPT 浏览器扩展配合使用，允许您在不离开 ChatGPT 的情况下接受和拒绝更改。
    - [立即聊天](https://chat.openai.com/g/g-zpuYfzV7k-editgpt)
 
+7. 🎥 Ideacadabra的病毒式YouTube创意
+    - YouTube创作者们！我为您的频道量身定制病毒式视频创意。
+   - [Chat now](https://chat.openai.com/g/g-yGCt9ZipA-viral-youtube-video-ideas-by-ideacadabra)

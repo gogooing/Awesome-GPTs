@@ -427,3 +427,7 @@ Stay tuned for more updates and advancements!
    - Transform your dreams into reality by setting goals, creating plans, and taking action.
    - [Chat now](https://chat.openai.com/g/g-u9lNVsHab-life-coach)
 
+9. 😬 AI Daily Digest
+   - Stay up-to-date on the latest AI news and research.
+   - [Chat now](https://chat.openai.com/g/g-th685hNma-ai-daily-digest)
+

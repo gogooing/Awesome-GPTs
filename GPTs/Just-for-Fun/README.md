@@ -468,3 +468,7 @@ Stay tuned for more updates and advancements!
 9. 📰 News Quick Read
    - Outline of the news. Find factual errors, argument errors, or paradoxes. Warn when it's too subjective and weak in prove.
    - [Chat now](https://chat.openai.com/g/g-vWIiweqqk)
+
+9. 😁 20 Questions
+   - Play the game "20 Questions" against ChatGPT
+   - [Chat now](https://chat.openai.com/g/g-tDUzfZTxo-20-questions)
