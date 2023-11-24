@@ -236,3 +236,6 @@ Stay tuned for more updates and advancements!
 - [YT transcriber | YouTube转录工具](./YT%20transcriber.md)
 - [YT-Summarizer | YouTube摘要器](./YT-Summarizer.md)
 - [YT-transcriber | YouTube转录工具](./YT-transcriber.md)
+- [Breakdown Outline Any Topic | 任何主题的分解大纲](./Breakdown-Outline-Any-Topic.md)
+- [Makise Kurisu](./Makise-Kurisu.md)
+- [Super Dalle | 超级Dalle](./超级Dalle.md)
